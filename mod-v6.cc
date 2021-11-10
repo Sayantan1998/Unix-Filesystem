@@ -1,3 +1,9 @@
+/* the Team members and their contibutions
+Chin-An Chang - initfs and print_block functions
+Nandan Gonchikar - init_root and openfs functions
+Sayantan Kundu - main and add_block_to_free_list functions
+for further information please refer to Readme.txt*/
+
 #include "mod-v6.h"
 
 using namespace std;
